@@ -1,0 +1,9 @@
+/* -- This file was created by donkilu on 2013.06.11 --*/
+
+6.11
+
+It's easier to use git under Linux environment, so use Linux now!
+
+Good Linux, don't you install?
+
+
